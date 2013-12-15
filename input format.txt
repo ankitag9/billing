@@ -1,0 +1,5 @@
+isEmployee(true/false),isAffiliate(true/false),joiningDate(dd/MM/yyyy)
+numberOfItemsInCart(Integer)
+isGroceries(true/false),quantity(integer),unitPrice(float)
+isGroceries(true/false),quantity(integer),unitPrice(float)
+isGroceries(true/false),quantity(integer),unitPrice(float)
